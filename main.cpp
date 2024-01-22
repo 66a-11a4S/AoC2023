@@ -1,4 +1,4 @@
-#include "Day1.h"
+#include "days/Day1.h"
 
 int main() {
     day1::Day1::Solve1();
